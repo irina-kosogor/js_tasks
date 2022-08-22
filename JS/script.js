@@ -32,4 +32,4 @@ if (personalMovieDB.count < 10) {
 } else {
     alert("Error");
 }
-
+console.log(personalMovieDB);
