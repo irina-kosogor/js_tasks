@@ -1,5 +1,5 @@
 'use strict';
-const numberOfFilms = +prompt("How many films have you already watched?", ""); //унарный плюс
+const numberOfFilms = +prompt("How many films have you already watched?", ""); 
 
 const personalMovieDB = {
     count: numberOfFilms,
